@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/SmileyChris/easy-thumbnails/commit/035d9ff2451ad735ce890df283183fc49ae60bb8",
       "git:hexsha": "035d9ff2451ad735ce890df283183fc49ae60bb8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T10:14:47.837355+00:00"
     },
     {
       "@id": "https://repolex.ai/r/SmileyChris/easy-thumbnails/commit/470717e2abcb940fa1e70e2e32219b7557320940",
